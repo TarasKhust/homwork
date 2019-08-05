@@ -1,11 +1,14 @@
 {
-  "name": "homwork",
-  "version": "0.1.0",
+  "name": "okay",
+  "version": "s",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Taras Rushchak <taraskhust@gmail.com>",
+  "license": "MIT"
 }
